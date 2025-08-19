@@ -24,3 +24,20 @@ projectAstrology/
 
 │── README.md
 
+
+## ⚡ Setup Instructions
+1. Clone the repo or download the ZIP
+2. Create a virtual environment (optional but recommended)
+
+    -> python -m venv venv
+   
+    -> venv\Scripts\activate
+
+4. Install dependencies
+
+    -> pip install -r requirements.txt
+
+5. Run the Streamlit app
+
+    -> streamlit run app.py
+
